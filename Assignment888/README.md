@@ -4,8 +4,8 @@
 
 *TODO*: Please edit the following information in your assignment
 
-* Name:
-* GitHub Username:BoyangZuo
+* Name:BoyangZuo
+* GitHub Username:IanZuo
 * Undergraduate or Graduate Student:Graduate
 * How many hours did it take you to complete this assignment? 25 hours
 * Did you collaborate or share ideas with any other students/TAs/Professors?nope
